@@ -1,0 +1,10 @@
+# Ignore environment variables and secret keys
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Replit / VSCode files
+.replit
+.vscode/
